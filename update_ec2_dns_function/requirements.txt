@@ -1,0 +1,8 @@
+asyncpg
+boto3
+pydantic
+requests
+regex
+six
+SQLAlchemy
+validators
